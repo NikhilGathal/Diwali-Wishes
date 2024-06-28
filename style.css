@@ -74,6 +74,7 @@ audio::-webkit-media-controls-panel {
   width: 10px;
   background-color: #fbd8a4;
   border-radius: 100%;
+  flex-shrink: 0;
 }
 
 .lakshmi-ganesh-section h2 {
